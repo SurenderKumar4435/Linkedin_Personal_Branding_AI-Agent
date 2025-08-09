@@ -1,0 +1,46 @@
+# Core Web Framework
+fastapi
+uvicorn
+
+# OpenAI & LLMs
+openai
+langchain
+huggingface_hub
+transformers
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Task Scheduling
+schedule
+
+# Image Generation
+pillow
+matplotlib
+
+# Translation
+googletrans==4.0.0-rc1
+
+# Data Processing & Utilities
+pandas
+python-dotenv
+aiohttp
+
+
+pydantic
+pillow
+#logging
+time
+
+
+aiofiles
+httpx
+python-multipart
+scikit-learn
+spacy
+nltk
+pdfplumber
+pytest
+apscheduler
+dateutil
